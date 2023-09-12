@@ -7,3 +7,5 @@ plt.plot(x, np.sin(x))
 plt.show()
 
 print("Hi there!")
+
+print("This exercise is to push changes to my repository")
